@@ -77,5 +77,5 @@ Tutte le attività vengono monitorate e registrate per rilevare comportamenti an
 ### Installazione
 1. **Clonare il repository**:
    ```sh
-   git clone https://github.com/gianmarcodirenzo-99/Implementazione-ZTA-Industria4.0.git
+   git clone https://github.com/gianmarcodirenzo-99/Implementazione-ZTA-Industria_4.0.git
    cd Implementazione-ZTA-Industria4.0/nodo-private/Aggregated_DT
